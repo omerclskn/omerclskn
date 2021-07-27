@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">Student at Yıldız Technical University, 4th grade. I'm currently working on web development, especially frontend.</h3>
+<h1 align="center">Hi, I'm Ömer 👋</h1>
+<h3 align="center">Student in Yıldız Technical University, 4th grade. I'm currently working on web development, especially frontend.</h3>
 
 - 🌱 I’m currently learning **React.js, Vue.js, Laravel**
 
