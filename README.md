@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ömer 👋</h1>
 <h3 align="center">Student in Yıldız Technical University, Computer Engineering 4th grade. I'm currently working on web development, especially frontend technologies.</h3>
 
-- 🌱 I’m currently learning **React.js, Vue.js, Laravel**
+- 🌱 I’m currently learning **React.js, Vue.js**
 
 - 📫 How to reach me **omercaliskan99@gmail.com**
 
